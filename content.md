@@ -109,10 +109,14 @@ Irino, T and Tada, R (2009). *Chemical and mineral compositions of sediments fro
 
 ## Storage and file formats ##
 
+Can't just store raw data in a salt mine like film stock
+
 ![Film reels in a salt mine](imgs/salt_mine.jpg "Film reels in a salt mine")
 (http://thecancellationstation.blogspot.co.uk/2012/05/side-dish-kansas-underground-salt.html)
 
-Issues
+
+
+### Issues
 
  * File format readable in 5 years? 10 years?  
  * Proprietory format?  Loss of fidelity if convert to open format?  
@@ -122,7 +126,9 @@ Issues
  * Security
  * Cost
 
-Strategies
+
+
+### Strategies
 
  * Lossless, open, simple formats e.g. zip-compressed csv, shapefile)
  * Duplication *and* backups
